@@ -32,3 +32,21 @@ updateDocsComment: >
 updateDocsWhiteList:
   - bug
   - chore
+
+# Additional automation for issue and PR management
+issueLabeler:
+  - label: "bug"
+    keywords:
+      - "bug"
+      - "error"
+      - "failure"
+  - label: "enhancement"
+    keywords:
+      - "enhancement"
+      - "feature"
+      - "improvement"
+  - label: "documentation"
+    keywords:
+      - "docs"
+      - "documentation"
+      - "readme"
