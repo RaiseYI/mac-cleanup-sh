@@ -45,7 +45,23 @@
 
 </details>
 
+## Table of Contents
 
+- [Install Automatically](#install-automatically)
+  - [Using homebrew](#using-homebrew)
+  - [Using curl](#using-curl)
+  - [Using wget](#using-wget)
+- [Step by Step Install](#step-by-step-install)
+- [Update](#update)
+  - [Using curl](#using-curl-1)
+  - [Using wget](#using-wget-1)
+- [Uninstall](#uninstall)
+  - [Using curl](#using-curl-2)
+  - [Using wget](#using-wget-2)
+- [Usage Options](#usage-options)
+- [Contributors](#contributors)
+  - [Code Contributors](#code-contributors)
+- [How to Contribute](#how-to-contribute)
 
 ## Install Automatically
 
@@ -159,3 +175,7 @@ This project exists thanks to all the people who contribute.
 <a href="https://opencollective.com/mac-cleanup/organization/9/website"><img src="https://opencollective.com/mac-cleanup/organization/9/avatar.svg"></a>
 
 If you like what I am doing please consider [sponsor my work](https://github.com/sponsors/fwartner)!
+
+## How to Contribute
+
+We welcome contributions from the community! If you would like to contribute to this project, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
